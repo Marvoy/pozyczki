@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pożyczki-Kredyty-Konta-Ubezpieczenia",
-    "currentPage": "page12.html",
+    "currentPage": "darmowe gry.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8525,9 +8525,9 @@
         }
       ]
     },
-    "page12.html": {
+    "darmowe gry.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "darmowe gry",
         "title": "darmowe gry",
         "order": 1
       },

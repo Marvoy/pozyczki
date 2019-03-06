@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pożyczki-Kredyty-Konta-Ubezpieczenia",
-    "currentPage": "Pożyczki-Kredyty-Konta-Ubezpieczenia.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1962,7 +1962,7 @@
         }
       ]
     },
-    "Pożyczki-Kredyty-Konta-Ubezpieczenia.html": {
+    "html.html": {
       "settings": {
         "main": true,
         "title": "Pożyczki-Kredyty-Konta-Ubezpieczenia",
